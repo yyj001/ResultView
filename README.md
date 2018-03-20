@@ -2,6 +2,8 @@
 
 githup:[https://github.com/yyj001](https://github.com/yyj001)
 
+csdn: [http://my.csdn.net/weixin_38379772](http://my.csdn.net/weixin_38379772)
+
 ResultView
 ====
 # 简介 introduction
@@ -56,7 +58,7 @@ an animation showing the result of event
         app:ring_width="3dp"
         />
 ```
- 一些改变控件的方法 some jave methods
+- **一些改变控件的方法 some jave methods**
 ```java
         resultView.setBackColor(R.color.red);
         resultView.setThemeColor(R.color.white);
