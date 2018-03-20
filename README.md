@@ -1,6 +1,6 @@
 **关注我**
 
-githup:[https://github.com/yyj001](https://github.com/yyj001)
+github:[https://github.com/yyj001](https://github.com/yyj001)
 
 csdn: [http://my.csdn.net/weixin_38379772](http://my.csdn.net/weixin_38379772)
 
