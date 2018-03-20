@@ -1,7 +1,6 @@
 **关注我**
 
 githup:[https://github.com/yyj001](https://github.com/yyj001)
-csdn: [http://my.csdn.net/weixin_38379772](http://my.csdn.net/weixin_38379772)
 
 ResultView
 ====
@@ -13,9 +12,9 @@ ResultView
 <img src="image/animation.gif" height="576" width="324" style="margin-left:100"/>
 
 **一些特点：**
-1.可以自定义颜色
-2.自定义时长
-3.自定义内部尺寸
+1. 可以自定义颜色
+2. 自定义时长
+3. 自定义内部尺寸
 
 ### how to use
 
