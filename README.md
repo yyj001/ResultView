@@ -1,4 +1,4 @@
-**关注我**
+**关注我 follow me**
 
 github:[https://github.com/yyj001](https://github.com/yyj001)
 
