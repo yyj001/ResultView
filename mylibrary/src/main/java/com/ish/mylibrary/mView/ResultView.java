@@ -87,7 +87,6 @@ public class ResultView extends View {
             sweepAngle = interpolatedTime * 360;
             postInvalidate();
         }
-
     }
 
     public class SmallerCircleAnim extends Animation {
@@ -276,7 +275,6 @@ public class ResultView extends View {
         //外切矩形
         RectF rec = new RectF(ringWidth / 2 + padding, ringWidth / 2 + padding,
                 mWidth - ringWidth / 2 + padding, mHeight - ringWidth / 2 + padding);
-
         canvas.drawRect(rec, recPaint);
         //圆环
         canvas.drawArc(rec, 0, sweepAngle, false, ringPaint);
